@@ -1,1 +1,1 @@
-# Create-Server-Profile-from-Templat
+# Create-Server-Profile-from-Templ
